@@ -23,6 +23,7 @@ pip install -r requirements1.txt
 ## command to install local packages in the environment
 pip install -e .
 
+## SKIP STEP 5 & 6 IF YOU HAVE COMPLETED STEP 3 & 4
 
 ### Step 5 :-
 ### tfod cpu environment various packages
